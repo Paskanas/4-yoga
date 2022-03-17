@@ -12,7 +12,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://Paskanas.github.io/4-yoga/
 
-Design: https://cdn.discordapp.com/attachments/850245533838868480/916019208788258886/yoga-lifestyle.png
+Design: https://i.pinimg.com/originals/02/60/cf/0260cfdf869ee893dec82e2a4e7a201e.png
 
 ## Project features
 
