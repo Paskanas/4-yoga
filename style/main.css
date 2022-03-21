@@ -7,7 +7,6 @@ body * {
 }
 
 body {
-  /* background-color: aquamarine; */
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -20,7 +19,10 @@ body > main {
 }
 
 body > main {
-  margin-top: 100px;
+  background-image: url('../img/backgroundImg.png');
+  background-size: cover;
+  background-position: center;
+  height: 660.6px;
 }
 
 header > img.logo {
@@ -38,6 +40,7 @@ main > img.yogaImg {
 
 nav {
   margin-top: 15px;
+  margin-right: 100px;
   float: right;
   font-size: 15px;
 }
@@ -67,29 +70,25 @@ a.singUp {
   text-decoration: none;
   font-size: 16px;
   border-radius: 5px;
-  padding: 10px 20px;
+  padding: 6px 20px;
   color: white;
-}
-
-main {
-  margin-top: 50px;
-  /* background-color: aqua; */
 }
 
 main > div.main {
   float: left;
   width: 45%;
-  margin-top: 8%;
+  margin-top: 160px;
+  margin-left: 130px;
   padding-right: 10%;
 }
 
-div.text {
+/* div.text {
   margin-left: 10%;
-}
+} */
 
-div.textH1 {
+/* div.textH1 {
   width: 100%;
-}
+} */
 
 h1.bigText {
   color: #2c224c;
@@ -110,18 +109,17 @@ p {
   margin-bottom: 20px;
 }
 
-img.bottomLeft {
+/* img.bottomLeft {
   width: 32%;
   float: left;
   position: relative;
-  top: -100px;
   left: -100px;
-}
+} */
 
-img.cloudImg {
+/* img.cloudImg {
   float: right;
   width: 35%;
   position: relative;
   top: 30px;
-  left: 0px;
-}
+  right: -40px;
+} */
